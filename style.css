@@ -106,6 +106,10 @@ h1{
     flex-direction: column;
 }
 
+.relevant {
+    width:50%;
+} 
+
 .relevant h1{
     font-size: 24px;
     color: black;
