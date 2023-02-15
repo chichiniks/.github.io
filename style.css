@@ -32,6 +32,7 @@
     padding: 6px 20px;
     transition: all .5s ease-in-out;
 }
+ 
 
 .navbar ul li a:hover{
     background-color: beige;
@@ -108,13 +109,16 @@ h1{
 .relevant h1{
     font-size: 24px;
     color: black;
-    font-weight: bold;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+     font-family: 'Times New Roman', Times, serif;
 }
 
 .relevant p{
     margin-bottom: 15px;
+    width:50%;
+    display: table-cell;
 }
+
 
 .interests{
     background-color: beige;
